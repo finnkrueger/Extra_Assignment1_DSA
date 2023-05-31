@@ -101,15 +101,15 @@ editor.insert('l')
 editor.insert('l')
 editor.insert('o')
 
-editor.print_editor()  # Output: Hello
+editor.print_editor()  
 editor.right()
-editor.print_editor()  # Output: Hello
+editor.print_editor()  
 editor.right()
-editor.print_editor()  # Output: Hello
+editor.print_editor()  
 editor.right()
-editor.print_editor()  # Output: Hello
+editor.print_editor() 
 editor.right()
-editor.print_editor()  # Output: Hello
+editor.print_editor() 
 editor.left()
 editor.insert('p')
-editor.print_editor()  # Output: Help!
+editor.print_editor()  
